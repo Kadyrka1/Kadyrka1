@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Kadyrka1
-- 👀 I’m interested in all sciences - physics, chemistry, bioengineering and neuroscience, and Artificial Intelligence
-- 🌱 I’m currently learning website coding, mobile apps development, and data science and machine learning
-- 💞️ I’m looking to collaborate on any projects
-- 📫 aidar.kadyr.ak@gmail.com
+Robotik- und Sensorsystemingenieur
+Verbindet eingebettete Systeme, KI und reale Physik.
+Interessiert an Sensorfusion, autonomen Systemen und intelligenter Regelung.
 
+Robotics & Sensor Systems Engineer
+Bridging embedded systems, AI, and real-world physics.
+Interested in sensor fusion, autonomous systems, and intelligent control.
