@@ -1,7 +1,4 @@
-Robotik- und Sensorsystemingenieur
-Verbindet eingebettete Systeme, KI und reale Physik.
-Interessiert an Sensorfusion, autonomen Systemen und intelligenter Regelung.
 
-Robotics & Sensor Systems Engineer
-Bridging embedded systems, AI, and real-world physics.
-Interested in sensor fusion, autonomous systems, and intelligent control.
+Mein Name ist Aidar Kadyr. Ich bin ein kasachischer Ingenieur für Automatisierungs- und Sensorsysteme und lebe in Deutschland. Ich bin aktives Mitglied der DPG-Physik-Community. Meine Arbeit konzentriert sich auf industrielle Automatisierung, Robotik, Sensorik, eingebettete Systeme und Regelungstechnik. Ich schließe derzeit meinen Masterstudiengang in Mess- und Sensortechnik an der Fachhochschule Coburg ab und habe bereits im Bereich CNC-Automatisierung und SPS gearbeitet. Derzeit bin ich bei CTC srl – SCM Group in Italien tätig. 
+
+My name is Aidar Kadyr. I am a Kazakh automation and sensor systems engineer based in Germany. Active member of DPG physics community. My work focuses on industrial automation, robotics, sensing, embedded systems and control engineering. I am completing a master's degree in measurement and sensor technology at Coburg University of Applied Sciences and have worked on CNC automation and PLC Currently working at CTC srl - SCM Group in Italy. 
